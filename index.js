@@ -53,4 +53,4 @@ const terms = [
 	}
 ];
 
-module.exports = {types, terms};
+module.exports = {types: types, terms: terms};
