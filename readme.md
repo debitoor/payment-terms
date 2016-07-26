@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/debitoor/payment-terms.png?branch=master)](https://travis-ci.org/debitoor/payment-terms)
