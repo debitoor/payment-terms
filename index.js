@@ -1,4 +1,4 @@
-export const types = {
+const types = {
 	Net: 'Net',
 	InvoiceMonth: 'Invoice month',
 	Paid: 'Paid',
@@ -9,7 +9,7 @@ export const types = {
 	Fixed: 'Fixed due date'
 };
 
-export const terms = [
+const terms = [
 	{
 		id: 1,
 		nameTextId: 'SBA_TERMS_OF_PAYMENT_8DAYS',
@@ -52,3 +52,5 @@ export const terms = [
 		type: types.Fixed
 	}
 ];
+
+module.exports = {types, terms};
