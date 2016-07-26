@@ -1,0 +1,23 @@
+{
+  "name": "payment-terms",
+  "version": "1.0.0",
+  "description": "debitoor payment terms",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js & echo \"all green.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debitoor/payment-terms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debitoor/payment-terms/issues"
+  },
+  "homepage": "https://github.com/debitoor/payment-terms#readme",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.1.1"
+  }
+}
