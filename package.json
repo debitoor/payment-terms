@@ -1,6 +1,6 @@
 {
   "name": "payment-terms",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "debitoor payment terms",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/debitoor/payment-terms#readme",
   "devDependencies": {
-    "babel-eslint": "^6.1.2",
     "eslint": "^3.1.1"
   }
 }

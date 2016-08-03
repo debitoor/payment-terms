@@ -1,4 +1,4 @@
-const types = {
+var types = {
 	Net: 'Net',
 	InvoiceMonth: 'Invoice month',
 	Paid: 'Paid',
@@ -9,7 +9,7 @@ const types = {
 	Fixed: 'Fixed due date'
 };
 
-const terms = [
+var terms = [
 	{
 		id: 1,
 		nameTextId: 'SBA_TERMS_OF_PAYMENT_8DAYS',
